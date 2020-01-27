@@ -132,6 +132,8 @@ function dyndns_list()
         'linode-v6' => 'Linode (v6)',
         'loopia' => 'Loopia',
         'namecheap' => 'Namecheap',
+        'netcup' => 'Netcup DNS API',
+        'netcup-v6' => 'Netcup DNS API (v6)',
         'noip' => 'No-IP',
         'noip-free' => 'No-IP (free)',
         'ods' => 'ODS.org',
